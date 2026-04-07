@@ -1,0 +1,7 @@
+public enum ItemID
+{
+    Chips, Coffee, Drink01, Drink02, Drink03, Drink04,
+    Cactus, Yogurt, Avacado, Cupcake, Mushroom, Soda,
+    IceCreamCone0, IceCreamCone1, Popsicle0, Popsicle1,
+    Fries, OrangeJuice, SnackBag, WaterBottle, Chocolate,
+}
